@@ -1,5 +1,5 @@
 ### Bem Vindos ao meu Perfil
-IA
+
 Me chamo **Gabriel**
 
 - Estou aestudando
